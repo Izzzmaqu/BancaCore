@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="BancaCore.API/BancaCore.API.csproj" />
+  <Project Path="BancaCore.Application/BancaCore.Application.csproj" />
+  <Project Path="BancaCore.Domain/BancaCore.Domain.csproj" />
+  <Project Path="BancaCore.Infrastructure/BancaCore.Infrastructure.csproj" />
+  <Project Path="BancaCore.Integration.Tests/BancaCore.Integration.Tests.csproj" />
+  <Project Path="BancaCore.Unit.Tests/BancaCore.Unit.Tests.csproj" />
+</Solution>
