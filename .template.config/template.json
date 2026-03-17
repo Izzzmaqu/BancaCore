@@ -1,0 +1,13 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Ismael Cortez",
+  "classifications": ["Clean Architecture", "Web API"],
+  "identity": "CleanArchitecture.WebAPI",
+  "name": "Clean Architecture Web API",
+  "shortName": "cleanapi",
+  "description": "Clean Architecture template with Domain, Application, Infrastructure and API layers",
+  "tags": {
+    "language": "C#",
+    "type": "solution"
+  }
+}
